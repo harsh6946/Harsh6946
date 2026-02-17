@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh Pramod Urkude 👋  
 
-🎓 **B.Tech CSE Student (2022–2026)** | CGPA: 7.14  
+🎓 **B.Tech CSE Student (2022–2026)** | CGPA: 7.45
 💻 Passionate about **Web Development, AI/ML, and Cloud Computing**  
 📍 India  
 
